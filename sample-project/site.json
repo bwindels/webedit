@@ -1,0 +1,13 @@
+{
+    "title": "Hauser Kommunikation",
+    "plugins": {
+      "assets": {
+        "image/*": "https://..."
+      },
+      "template-engine": "https://",
+      "style-engine": "https://",
+      "sections": [
+        "https://github.com/bwindels/exif-parser/tree/25c8aa8fa9e9d31431ba3e7e5dd348122d41174a"
+      ]
+    }
+}

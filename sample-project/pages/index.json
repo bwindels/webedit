@@ -1,0 +1,62 @@
+{
+  "title": "Index",
+  "sections": [
+    {
+      "type": "markdown",
+      "class": "intro-text",
+      "body": "Ihr Partner für Wissenskommunikation\n\nWir helfen Ihnen, den Wissenstransfer im Team zu verbessern. Wir eröffnen Ihnen Möglichkeiten, Inhalte aus Wirtschaft, Wissenschaft und Politik verständlich und unterhaltsam zu präsentieren."
+    },
+    {
+      "type": "subsection",
+      "title" "Leistungen"
+      "sections": [
+        {
+          "type": "repeat",
+          "data": [
+            {
+              "title": "Workshops",
+              "text": "In unseren Workshops schulen wir die Teilnehmer in der verständlichen Vermittlung ihrer Inhalte, zum Beispiel ...",
+              "bild": "/fotos/workshops.jpg"
+            },
+            {
+              "title": "Veranstaltungen",
+              "text": "In unseren Veranstaltungen schulen wir die Teilnehmer in der verständlichen Vermittlung ihrer Inhalte, zum Beispiel ...",
+              "bild": "/fotos/veranstaltungen.jpg"
+            },
+            {
+              "title": "Moderationen",
+              "text": "In unseren Workshops schulen wir die Teilnehmer in der verständlichen Vermittlung ihrer Inhalte, zum Beispiel ...",
+              "bild": "/fotos/moderationenmoder.jpg"
+            }
+          ],
+          "section": {
+            "type": "template",
+            "template": "leistung"
+          }
+        }
+      ]
+    },
+    {
+      "type": "subsection",
+      "title" "Ausgewählte Referenzen"
+      "sections": [
+        {
+          "type": "repeat",
+          "data": [
+            {
+              "logo": "/logos/adlershof.png",
+              "scale": 0.8
+            },
+          ],
+          "section": {
+            "type": "template",
+            "template": "reference",
+            "values": "inherit"
+          }
+        }
+      ]
+    },
+    
+    
+  ]
+}

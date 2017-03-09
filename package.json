@@ -1,0 +1,14 @@
+{
+  "name": "webeditor",
+  "version": "0.0.1",
+  "description": "electron app for WYSIWYG editing of static websites with structured data",
+  "main": "main.js",
+  "scripts": {
+    "start": "node_modules/.bin/electron ."
+  },
+  "author": "Bruno Windels",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
